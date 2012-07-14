@@ -1,0 +1,9 @@
+Dynamixel Controller 
+by Wimpy Labs
+github.com/jes1510
+
+This is a general purpose design for a Dynamixel servo controller.  It should work with the RS485 servos as well as the
+asynchronous serial servos.  It was designed to be library compatible with the Arduino family.
+
+No warranty is provided or implied.  It probably won't work and will cause all kinds of bad things to happen. If something
+does happen then it's not my fault.
